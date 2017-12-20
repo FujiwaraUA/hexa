@@ -1,0 +1,21 @@
+.ga-hexa-container{
+  height:100vw;
+  height:100vh;
+  color: #a1a1a1;
+  position: relative;
+}
+
+.ga-hexa {
+  position:relative;
+  left: 500px;
+  top: 500px;
+  width: 80px;
+  height: auto;
+  opacity: 0.2;
+  cursor: pointer;
+  transition: opacity 300ms;
+}
+
+.ga-hexa:hover {
+opacity: 0.5;
+}
